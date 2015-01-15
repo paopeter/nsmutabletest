@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  delTableViewController.h
 //  nsmutabletest
 //
 //  Created by pao on 2015/1/15.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface delTableViewController : UITableViewController
 
 @end
